@@ -1,2 +1,3 @@
-# diploma_thesis
-Diploma thesis: "K-SVD for sparse representations"
+# "K-SVD for Sparse Representations"
+
+This is my diploma thesis Matlab code I did in Augist 2018.
